@@ -50,7 +50,7 @@ namespace binaryConvert
             while (i > 0);
             
             label1.Content = binary.ToString();
-            //kk
+           
         }
     }
 }
